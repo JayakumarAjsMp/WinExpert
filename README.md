@@ -16,13 +16,13 @@ For Example,
  Answer is 85 then it get original answer from database compare both values, if both are equal then update the score as score + 1 else score as old score.
  For next question Participant want to press TAB and ENTER...
 
-DATABASE:
+Database:
 For this application "Database name is db".
 To store the participant details and score use the table name as "reg" in database.
 To store and retrieve the question to the screen use the table name as "ques" in database.
 Sample database are given at the end of this file.
 
-Folder
+Folder:
 src\Login 
     Main.java 
       Simple loading page for application.
