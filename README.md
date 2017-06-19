@@ -110,14 +110,4 @@ CREATE TABLE IF NOT EXISTS `reg` (
   `Phno` varchar(15) NOT NULL,
   `score` varchar(6) NOT NULL DEFAULT '0'
 ) ENGINE=MyISAM DEFAULT CHARSET=latin1;
---
--- Sample data for table `reg`
---
 
-INSERT INTO `reg` (`Name`, `Name1`, `Email`, `College`, `Phno`, `score`) VALUES
-('fdskh', 'sakj', 'sfdfs', 's', '32423', '0'),
-('sdjf', 'jshdjsah', 'jhsudh', 'hds', '132342', '0'),
-('siva', 'sdasd', 'SHGDHG2GM@TGJDF', 'HSDGKQGH', '9784376178', '0'),
-('mhdhfj', 'hfidj', 'hjfi', 'hdisjj', '1224454', '0'),
-('sdfs', 'gdcfkh', 'diofw', 'ksdjk', 'sdjk', '0');
-      
